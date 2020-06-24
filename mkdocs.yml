@@ -1,0 +1,8 @@
+site_name: 赫的图书馆
+pages:
+  - 总览: README.md
+# nav:
+#   - TODO: todo/nodesTODO.md
+theme:
+  name: material
+  language: zh
